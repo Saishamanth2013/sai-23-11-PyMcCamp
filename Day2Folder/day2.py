@@ -19,13 +19,13 @@ print("hello from day2")
 ########################################################################
 # Task 2:
 
-name ="ADAM"
+# name ="ADAM"
 
-for letter in name:
-    print("Give me a " + letter + "!")
+# for letter in name:
+#     print("Give me a " + letter + "!")
 
-print("Who is the best!?!")
-print(name + "!!")
+# print("Who is the best!?!")
+# print(name + "!!")
 
 
 
