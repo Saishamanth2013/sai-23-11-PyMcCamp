@@ -10,8 +10,9 @@ print("hello from day2")
 for i in range (100):
     print("I will mot sling mud at my friends")
 
-count
-
+count=0
+for i in range (10):
+    print
 
 
 
