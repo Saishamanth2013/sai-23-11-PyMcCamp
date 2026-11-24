@@ -22,7 +22,7 @@ print("hello from day2")
 name ="ADAM"
 
 for letter in name:
-    print("")
+    print("Give me a" + letter )
 
 
 
