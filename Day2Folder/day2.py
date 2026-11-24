@@ -14,7 +14,7 @@ count=0
 for i in range (10):
     print("Hello, good morning")
     count+=1
-
+print(count)
 
 ########################################################################
 # Task 2:
