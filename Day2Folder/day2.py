@@ -20,7 +20,7 @@ print("hello from day2")
 # Task 2:
 
 name ="ADAM"
-print(Give me + "name")
+
 
 
 
