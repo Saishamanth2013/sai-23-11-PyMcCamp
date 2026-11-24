@@ -11,6 +11,10 @@ for i in range (100):
     print("I will mot sling mud at my friends")
 
 
+
+
+
+
 ########################################################################
 # Task 2:
 
