@@ -61,7 +61,7 @@ real_password=input("Enter a word ")
 if real_password is correct:
     print("Yes")
 else:
-    
+    print("No")
 ########################################################################
 # Task 7:
 
