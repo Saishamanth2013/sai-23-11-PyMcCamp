@@ -58,7 +58,7 @@ print("hello from day3")
 real_password = "passme"
 enter_password=input("Enter a word ")
 
-if real_password == :
+if real_password == enter_password:
     print("Yes")
 else:
     print("No")
