@@ -72,7 +72,7 @@ print("hello from day3")
    
 ########################################################################
 # Task 8:
-num1 = random.
+num1 = random.randomint(1,100)
 
 
 
