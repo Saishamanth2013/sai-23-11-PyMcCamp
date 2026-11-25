@@ -66,7 +66,7 @@ print("hello from day3")
 # Task 7:
 for i in range(10):
     int1 = random.randint(1,100)
-
+    print(int1)
    
 ########################################################################
 # Task 8:
