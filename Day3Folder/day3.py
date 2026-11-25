@@ -54,14 +54,14 @@ print("hello from day3")
 
 
 ########################################################################
-# Task 6:
-real_password = "passme"
-enter_password=input("Enter a word ")
+# # Task 6:
+# real_password = "passme"
+# enter_password=input("Enter a word ")
 
-if real_password == enter_password:
-    print("Yes")
-else:
-    print("No")
+# if real_password == enter_password:
+#     print("Yes")
+# else:
+#     print("No")
 ########################################################################
 # Task 7:
 
