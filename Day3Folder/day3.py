@@ -29,7 +29,7 @@ print("hello from day3")
 num1=input(10)
 num2=input(20)
 
-print(num1 + num)
+print(num1 + num2)
 
 ########################################################################
 # Task 4:
