@@ -15,7 +15,7 @@ print("hello from day3")
 ########################################################################
 # Task 2:
 def name():
-    name=Ben
+    name="Ben"
     
 num_pens=5
 
