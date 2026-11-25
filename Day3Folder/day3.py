@@ -15,7 +15,7 @@ print("hello from day3")
 ########################################################################
 # Task 2:
 
-myname=Sai
+myname=Ben
 num_pens=5
 
 
