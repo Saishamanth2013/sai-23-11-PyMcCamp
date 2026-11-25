@@ -14,13 +14,13 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-name="Ben"
-num_pens=input("Enter a number:")
-def sentence(name, num_pens)
-    print(name + " bought" + str(num_pens) + "pens")
+# name="Ben"
+# num_pens=input("Enter a number:")
+# def sentence(name, num_pens)
+#     print(name + " bought" + str(num_pens) + "pens")
 
-sentence("sara", 65)
-sentence("Bob, 23")
+# sentence("sara", 65)
+# sentence("Bob, 23")
 
 
 
