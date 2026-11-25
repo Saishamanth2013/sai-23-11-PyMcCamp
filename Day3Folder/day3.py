@@ -74,7 +74,7 @@ print("hello from day3")
 # Task 8:
 num1 = random.randomint(1,100)
 num2 = random.randomint(1,100)
-ans_sum = input("What")
+ans_sum = input("What is the sum of " + str)
 
 ########################################################################
 # Additional exercises:
