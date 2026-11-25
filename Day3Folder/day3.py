@@ -56,7 +56,7 @@ print("hello from day3")
 ########################################################################
 # Task 6:
 real_password = "passme"
-real_password=input("Enter a word ")
+enter_password=input("Enter a word ")
 
 if real_password is correct:
     print("Yes")
