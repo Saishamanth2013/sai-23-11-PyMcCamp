@@ -41,14 +41,14 @@ print("hello from day3")
 
 
 ########################################################################
-# Task 5:
-age1=int(input("Enter a number "))
-age2=int(input("Enter a number "))
+# # Task 5:
+# age1=int(input("Enter a number "))
+# age2=int(input("Enter a number "))
 
-if age1 >= age2:
-    print("age1 is older than age2")
-else: 
-    print("Age1 is not older tha age2")
+# if age1 >= age2:
+#     print("age1 is older than age2")
+# else: 
+#     print("Age1 is not older tha age2")
 
 
 
