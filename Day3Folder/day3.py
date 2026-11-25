@@ -25,18 +25,18 @@ print("hello from day3")
 
 
 ########################################################################
-# Task 3:
-num1=input("Enter a number ")
-num2=input("Enter a number ")
+# # Task 3:
+# num1=input("Enter a number ")
+# num2=input("Enter a number ")
 
-print(int(num1) +int(num2))
+# print(int(num1) +int(num2))
 
 ########################################################################
 # Task 4:
 num_1=input("Enter a number")
 num_2=input("Enter a number")
 
-print(int)
+print(int(num_1) * int(num_2))
 
 
 
