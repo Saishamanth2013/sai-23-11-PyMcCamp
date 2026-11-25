@@ -56,7 +56,7 @@ print("hello from day3")
 ########################################################################
 # Task 6:
 real_password = "passme"
-real_password
+real_password=input()
 
 
 
