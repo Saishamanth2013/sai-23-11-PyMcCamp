@@ -59,8 +59,8 @@ real_password = "passme"
 real_password=input("Enter a word ")
 
 if real_password is correct:
-    print()
-
+    print("Yes")
+e;
 
 ########################################################################
 # Task 7:
