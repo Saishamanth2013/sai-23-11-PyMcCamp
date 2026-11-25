@@ -29,7 +29,7 @@ print("hello from day3")
 num1=input("Enter a number ")
 num2=input("Enter a number ")
 
-print(num1 + num2)
+print(num1 +int(num2))
 
 ########################################################################
 # Task 4:
