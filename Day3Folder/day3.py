@@ -67,6 +67,7 @@ print("hello from day3")
 for i in range(1,100):
     import random
     dicevalue=random.randint(1,100)
+    count+=4
 print (dicevalue)
 
 ########################################################################
