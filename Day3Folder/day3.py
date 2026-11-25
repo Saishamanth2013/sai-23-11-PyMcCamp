@@ -26,7 +26,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 3:
-num1=input(10)
+num1=input("")
 num2=input(20)
 
 print(num1 + num2)
