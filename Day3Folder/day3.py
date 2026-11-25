@@ -20,7 +20,7 @@ num_pens=5
 
 var=input("State a number: ")
 
-print(name + " " + "bought"  )
+print(name + " " + "bought"   )
 
 
 ########################################################################
