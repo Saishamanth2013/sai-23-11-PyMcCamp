@@ -60,8 +60,8 @@ real_password=input("Enter a word ")
 
 if real_password is correct:
     print("Yes")
-e;
-
+else:
+    
 ########################################################################
 # Task 7:
 
