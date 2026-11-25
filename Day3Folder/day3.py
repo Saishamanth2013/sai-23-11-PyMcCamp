@@ -5,8 +5,8 @@ print("hello from day3")
 ########################################################################
 # Task 1:
 myname=input("Stop playing games Sai! ")
+title=in
 
-print(myname)
 
 
 
