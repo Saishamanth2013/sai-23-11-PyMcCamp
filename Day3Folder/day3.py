@@ -8,7 +8,7 @@ myname=input("Stop playing games Sai! ")
 title=input("State a title: ")
 command=input("State a command: ")
 
-print(title+ " " + myname) + " commands the peasants to "
+print(title+ " " + myname) + " commands the peasants to " + command
 
 
 
