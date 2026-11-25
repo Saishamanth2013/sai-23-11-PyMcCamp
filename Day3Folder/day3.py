@@ -16,7 +16,7 @@ print("hello from day3")
 # Task 2:
 
 myname=Sai
-
+num_pens
 
 
 
