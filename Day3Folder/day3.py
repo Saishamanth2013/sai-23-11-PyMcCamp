@@ -45,7 +45,8 @@ print("hello from day3")
 age1=int(input("Enter a number "))
 age2=int(input("Enter a number "))
 
-
+if age1 >= age2:
+    print()
 
 
 
