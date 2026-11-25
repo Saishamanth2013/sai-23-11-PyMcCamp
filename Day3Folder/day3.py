@@ -6,7 +6,7 @@ print("hello from day3")
 # Task 1:
 myname=input("Stop playing games Sai! ")
 title=input("State a title: ")
-command=input("")
+command=input("State a command: ")
 
 
 
