@@ -16,7 +16,7 @@ print("hello from day3")
 # Task 2:
 name="Ben"
 num_pens=input("Enter a number:")
-print(name + " bought" + str(num_pens))
+print(name + " bought" + str(num_pens) + "pens")
 
 
 
