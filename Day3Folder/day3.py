@@ -26,8 +26,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 3:
-num1=input("Enter a number")
-num2=input("Enter a number")
+num1=input("Enter a number ")
+num2=input("Enter a number ")
 
 print(num1 + num2)
 
