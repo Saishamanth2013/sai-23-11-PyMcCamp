@@ -42,8 +42,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-age1=input("")
-
+age1=input("Enter a number")
+age2=input
 
 
 
