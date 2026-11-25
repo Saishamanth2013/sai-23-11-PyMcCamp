@@ -7,7 +7,8 @@ print("hello from day3")
 myname=input("Stop playing games Sai! ")
 title=input("State a title: ")
 command=input("State a command: ")
-print(title+ " " + )
+print(title+ " " + myname)
+
 
 
 ########################################################################
