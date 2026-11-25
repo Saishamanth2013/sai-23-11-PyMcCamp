@@ -36,7 +36,7 @@ print("hello from day3")
 num_1=input("Enter a number ")
 num_2=input("Enter a number ")
 
-print(int(num_1) * int(num_2))
+print("The total cost of the items are:$" + int(num_1) * int(num_2))
 
 
 
