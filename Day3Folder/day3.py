@@ -15,7 +15,7 @@ print("hello from day3")
 ########################################################################
 # Task 2:
 name="Ben"
-num_pens=input("Enter a nu")
+num_pens=input("Enter a number:")
 
 
 
