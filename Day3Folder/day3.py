@@ -3,12 +3,12 @@
 print("hello from day3")
 
 ########################################################################
-# Task 1:
-myname=input("Stop playing games Sai! ")
-title=input("State a title: ")
-command=input("State a command: ")
+# # Task 1:
+# myname=input("Stop playing games Sai! ")
+# title=input("State a title: ")
+# command=input("State a command: ")
 
-print(title+ " " + myname + " commands the peasants to " + command)
+# print(title+ " " + myname + " commands the peasants to " + command)
 
 
 
