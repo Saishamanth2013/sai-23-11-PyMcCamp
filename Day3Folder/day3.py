@@ -14,16 +14,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-def name():
-    name="Ben"
-name() 
-num_pens=5
-
-var=input("State a number: ")
-
-print(name + " " + "bought" + "num_pens" + "pens")
-
-
+name
 ########################################################################
 # Task 3:
 
