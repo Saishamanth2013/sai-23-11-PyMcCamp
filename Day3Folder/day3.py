@@ -78,8 +78,8 @@ for i in range(10):
      int1 = random.randint(1,100)
      print(int1)
    
-num1=input
-
+num1=input("Enter a number")
+num2=input("Enter a number")
 
 
 
