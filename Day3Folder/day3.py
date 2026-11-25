@@ -18,7 +18,7 @@ print("hello from day3")
 name=Ben
 num_pens=5
 
-var=input("state a number")
+var=input("State a number:")
 
 
 
