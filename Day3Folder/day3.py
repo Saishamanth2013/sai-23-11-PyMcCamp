@@ -64,8 +64,8 @@ print("hello from day3")
 #     print("No")
 ########################################################################
 # Task 7:
-
-
+for i in range(1,100):
+    import random
 
 
 
