@@ -14,8 +14,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-
-name=Ben
+def name():
+    name=Ben
 num_pens=5
 
 var=input("State a number: ")
