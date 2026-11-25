@@ -48,7 +48,7 @@ age2=int(input("Enter a number "))
 if age1 >= age2:
     print("age1 is older than age2")
 else: 
-    print
+    print("Age1 ")
 
 
 
