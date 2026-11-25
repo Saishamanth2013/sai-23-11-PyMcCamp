@@ -34,7 +34,7 @@ print(int(num1) +int(num2))
 ########################################################################
 # Task 4:
 num_1=input("Enter a number")
-num_2
+num_2=input()
 
 
 
