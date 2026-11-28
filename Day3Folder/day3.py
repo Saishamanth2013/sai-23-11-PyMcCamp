@@ -64,11 +64,11 @@ print("hello from day3")
 #     print("No")
 ########################################################################
 # Task 7:
-# import random ##Library
+ import random ##Library
 
-# for i in range(10):
-#     int1 = random.randint(1,100)
-#     print(int1)
+ for i in range(10):
+     int1 = random.randint(1,100)
+     print(int1)
    
 ########################################################################
 # Task 8:
